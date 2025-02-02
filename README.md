@@ -2,7 +2,7 @@
 
 Python program that fulfills the requirements of the Random Username Generator project. The program combines random adjectives and nouns, allows customization (numbers, special characters, and length), and saves the generated usernames to a file.
 
-#Features of the Program
+# Features of the Program #
 
 **1.Random Adjective and Noun Combination:**
 
