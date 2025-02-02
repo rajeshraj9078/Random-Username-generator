@@ -1,4 +1,4 @@
-# Random-Username-generator
+# Random-Username-generator #
 
 Python program that fulfills the requirements of the Random Username Generator project. The program combines random adjectives and nouns, allows customization (numbers, special characters, and length), and saves the generated usernames to a file.
 
